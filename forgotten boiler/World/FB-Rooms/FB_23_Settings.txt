@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.08343506
+RandomItemDensity: 0.3804348
+RandomItemSpearChance: 0.1673912
+WaterReflectionAlpha: 1
+Palette: 152
+EffectColorA: 18
+EffectColorB: 11
+Effects: Fog-0.1086956-20-20, 
+PlacedObjects: LightSource><422.8148><1406.425><0.1956522~EffectColor1~87~-251~50~86.60254~1~0, LightSource><647.1877><331.6652><0.2790408~EffectColor2~-482~-127~50~86.60254~1~0, LightSource><1009.117><294.9119><0.2224201~EffectColor2~-252~-15~5~-86.3974~1~0, LightSource><788.2917><1172.317><0.0333451~White~-276.7573~191.7782~-494.2656~110.7921~1~0, 
+AmbientSounds: OMNI><SO_NAT-LilDrips.ogg><261.3823><242.3501><0.3913043><1, SPOT><AM_IND-ElectricHum01.ogg><1062.61><333.0997><0.1984041><1><1142.404><289.0133><-196.145><-6.897018><0><0.1, SPOT><waterGurgleLOOP1.wav><727.2614><551.3291><0.3221356><1><716.9885><987.1021><1.640564><239.9791><0><0.1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NA_25 - Demonic Riser<eA>vol<eB>0.3309333<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>4<eA>rest<eB>3<eA>fadeIn<eB>202.1739<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>1<eA>stopAtGate<eB>1<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>680.3<tB>353.9951<tA>fireChance<tB>0.9021739<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB>111<tA>pos<tB>429.3<tB>1434.995<tA>handlePos<tB>9.18219<tB>-139.4262, 
+FadePalette: 151, 0.1703465, 0.1655346

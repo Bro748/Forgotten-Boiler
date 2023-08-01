@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.02319966
+Grime: 0.09825598
+BkgDroneVolume: 0
+Palette: 3
+EffectColorB: 13
+Effects: Fog-0.2551968-20-20, 
+PlacedObjects: NoSpearStickZone><481.6503><258.8681><5~265, 
+AmbientSounds: OMNI><AM_ENV-Forest.ogg><554.7324><550.1992><0.1960821><1, OMNI><AM_ENV-CricketsWnd.ogg><553.9236><480.4348><0.355559><1, 
+FadePalette: 150, 0.2065217

@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.1521739
+Clouds: 0.25
+Grime: 0.1365376
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 3
+Effects: Fog-0.5108696-20-20, Moth-0.1086956-20-82, 
+AmbientSounds: OMNI><AM_IND-Utility01.ogg><730.4478><472.7206><0.3386323><1, SPOT><AM_IND-Warehouse02.ogg><775.2167><188.4472><0.2454031><1><470.2167><129.4472><-3.355347><161.6447><0><0.1, OMNI><AM_ENV-CricketsWnd.ogg><731.5503><544.9886><0.3804348><1, 
+FadePalette: 150, 0.3563745

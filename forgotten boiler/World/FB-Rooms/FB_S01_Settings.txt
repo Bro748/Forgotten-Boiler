@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.04373866
+Palette: 153
+EffectColorA: 18
+Effects: Fog-0.5543478-34-87, 
+PlacedObjects: LightSource><542.8893><491.8564><0.4090914~EffectColor1~-205~-118~50~86.60254~1~0, LightSource><555.7895><472.1913><0.05654509~EffectColor1~-138.0229~107.826~45.73126~-96.24222~1~1, 
+AmbientSounds: OMNI><SO_IND-HeatDuct.ogg><360.7929><237.3047><0.2872059><0.5695652, 
+FadePalette: 22, 0.0915534

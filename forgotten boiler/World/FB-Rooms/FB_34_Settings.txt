@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.0978712
+RandomItemDensity: 0.3478261
+RandomItemSpearChance: 0.2217391
+Palette: 153
+EffectColorA: 18
+EffectColorB: 13
+Effects: Fog-0.1956522-20-20, 
+PlacedObjects: LightFixture><1703.69><221.9408><SlimeMoldLight~17.32051~-10~45, LightFixture><841.6238><175.093><SlimeMoldLight~34.3205~-77~15, LightSource><1987.358><363.5817><0.09782609~EffectColor1~-192~90~50~86.60254~1~0, SlimeMold><1287.305><190.5466><0~0~2~3, SlimeMold><1255.06><189.1888><0~0~2~3, LightSource><720.4046><217.0748><0.3913046~EffectColor1~-237~130~50~86.60254~1~0, LightSource><1479.942><296.3087><0.1413043~EffectColor2~-123~-141~-213~43.60254~1~0, LightSource><1581.167><300.4455><0.2084125~EffectColor1~-213.4979~-235.0354~50~86.60254~1~0, LightSource><587.1624><269.8668><0.1521739~EffectColor2~-147~-178~50~86.60254~1~0, LightSource><354.3481><340.9549><0.3043478~EffectColor1~200~-110~50~86.60254~1~0, LightSource><1121.646><240.2706><0.2782268~EffectColor1~-51.30835~-250.5219~77.0354~212.5307~1~0, LightSource><1583.005><335.373><0.05654443~EffectColor1~-149.4063~-3.161377~45.7312~128.5786~1~1, LightSource><1119.389><278.6417><0.07201087~EffectColor1~85.37505~-167.5084~50~86.60254~1~1, 
+AmbientSounds: OMNI><AM_IND-ElectricHum01.ogg><471.4224><362.1486><0.2391304><1, 
+FadePalette: 22, 0.2184216, 0.2184218

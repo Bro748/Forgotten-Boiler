@@ -1,0 +1,151 @@
+ROOMS
+GATE_SH_FB : DISCONNECTED, FB_GS01, FB_02 : GATE
+GATE_CC_FB : DISCONNECTED, FB_43 : GATE
+FB_GS01 : GATE_SH_FB : SHELTER
+FB_02 : GATE_SH_FB, FB_03
+FB_03 : FB_05, FB_02, FB_04
+FB_04 : FB_05, FB_03
+FB_05 : FB_04, FB_06, FB_03
+FB_06 : FB_07, FB_09, FB_05
+FB_07 : FB_06
+FB_08 : FB_09, DISCONNECTED
+FB_09 : FB_10, FB_08, FB_06
+FB_10 : FB_S01, FB_15, FB_11, FB_09, FB_12
+FB_11 : FB_17, FB_13, FB_10
+FB_12 : FB_10, FB_46
+FB_13 : FB_14, FB_11, FB_46
+FB_14 : FB_21, FB_13, FB_16
+FB_15 : FB_16, FB_10
+FB_16 : FB_14, FB_15
+FB_17 : FB_19, FB_18, FB_11
+FB_18 : FB_17, DISCONNECTED
+FB_19 : FB_17, FB_20
+FB_20 : FB_33, FB_21, FB_31, FB_49, FB_19, FB_22 : PERF_HEAVY
+FB_21 : FB_32, FB_20, FB_14, FB_44 : PERF_HEAVY
+FB_22 : FB_20, FB_23
+FB_23 : FB_22, FB_24, FB_25
+FB_24 : FB_44, FB_23
+FB_25 : FB_26, FB_48, FB_23, FB_50
+FB_26 : FB_48, FB_25
+FB_27 : FB_47, FB_31, DISCONNECTED, FB_48
+FB_28 : FB_29, FB_47
+FB_29 : FB_S02, FB_30, FB_38, FB_28
+FB_30 : FB_36, FB_29, FB_35, FB_32
+FB_31 : FB_27, FB_20
+FB_32 : FB_30, FB_34, FB_21
+FB_33 : FB_35, FB_34, FB_20
+FB_34 : FB_32, FB_33
+FB_35 : FB_30, FB_33
+FB_36 : FB_53, FB_40, FB_30 : SWARMROOM
+FB_37 : FB_42, FB_41, FB_53, FB_39 : SWARMROOM
+FB_38 : FB_39, FB_29
+FB_39 : FB_37, FB_40, FB_38
+FB_40 : FB_36, FB_39
+FB_41 : FB_37
+FB_42 : FB_43, FB_37
+FB_43 : GATE_CC_FB, FB_42
+FB_44 : FB_21, FB_45, FB_24
+FB_45 : FB_44, DISCONNECTED
+FB_46 : FB_13, FB_12
+FB_47 : FB_28, FB_27
+FB_48 : FB_27, FB_26, FB_51, FB_25
+FB_49 : FB_20, FB_S03
+FB_50 : FB_25, FB_51
+FB_51 : FB_48, FB_52, FB_50
+FB_52 : FB_51
+FB_53 : FB_37, FB_36
+FB_S01 : FB_10 : SHELTER
+FB_S02 : FB_29 : SHELTER
+FB_S03 : FB_49 : SHELTER
+END ROOMS
+
+CREATURES
+//all
+FB_03 : 4-Black, 5-Black
+FB_06 : 4-Black, 5-Centipede-{0.25}
+FB_11 : 8-Dropbug
+FB_12 : 2-Black, 3-Black
+FB_14 : 4-BigSpider
+FB_20 : 8-Small Centipede, 6-Big Spider
+FB_27 : 4-Big Spider
+FB_36 : 5-Yellow, 6-Yellow
+FB_37 : 6-White
+FB_39 : 3-Blue
+FB_40 : 2-Dropbug
+FB_49 : 2-Black
+LINEAGE : FB_05 : 3 : BigSpider-0.3, BigSpider-0.2, SpitterSpider-0
+LINEAGE : FB_09 : 4 : BigSpider-0.5, BigSpider-0.4, SpitterSpider-0
+LINEAGE : FB_19 : 4 : Yellow-0.8, Yellow-0.3, Cyan-0
+LINEAGE : FB_30 : 6 : Blue-0.4, White-0.4, Cyan-0
+LINEAGE : FB_32 : 3 : BigSpider-0.6, BigSpider-0.3, SpitterSpider-0
+LINEAGE : FB_44 : 4 : BigSpider-0.15, SpitterSpider-0
+
+//white
+(White,Gourmand)FB_11 : 4-BigSpider, 5-SpitterSpider
+(White,Gourmand)FB_14 : 3-Dropbug
+(White,Gourmand)FB_20 : 11-Yellow
+(White,Gourmand)FB_45 : 3-Centipede-{0.15}
+(White,Gourmand)FB_48 : 4-Centipede-{0.2}, 5-Centipede-{0.8}
+(White,Gourmand)FB_51 : 3-Centipede-{0.5}
+
+//white and yellow
+(White,Yellow,Gourmand)FB_13 : 4-Centipede-{0.5}
+(White,Yellow,Gourmand)FB_15 : 2-Yellow, 3-Small Centipede, 4-Yellow
+(White,Yellow,Gourmand)FB_20 : 12-Yellow, 9-Centipede-{0.4}
+(White,Yellow,Gourmand)FB_25 : 4-Small Centipede-2
+(White,Yellow,Gourmand)FB_29 : 5-White
+(White,Yellow,Gourmand)FB_47 : 2-Black
+(White,Yellow,Gourmand)LINEAGE : FB_29 : 4 : Pink-0.4, White-0.3, Cyan-0
+(White,Yellow,Gourmand)LINEAGE : FB_37 : 5 : Pink-0.7, Pink-0.4, Cyan-0
+
+//yellow
+(Yellow)FB_11 : 5-BigSpider
+(Yellow)FB_26 : 2-Centipede-{0.6}
+(Yellow)FB_34 : 2-Yellow
+(Yellow)FB_45 : 3-Small Centipede
+(Yellow)FB_48 : 5-Centipede-{0.6}
+(Yellow)FB_51 : 3-Centipede-{0.3}
+
+//red
+(X-White,Yellow,Gourmand)FB_03 : 6-Black
+(X-White,Yellow,Gourmand)FB_05 : 4-SpitterSpider
+(X-White,Yellow,Gourmand)FB_06 : 3-Black
+(X-White,Yellow,Gourmand)FB_09 : 3-SpitterSpider
+(X-White,Yellow,Gourmand)FB_11 : 3-Dropbug, 4-Cyan, 5-SpitterSpider
+(X-White,Yellow,Gourmand)FB_12 : 4-Black
+(X-White,Yellow,Gourmand)FB_13 : 3-Centipede-{0.25}
+(X-White,Yellow,Gourmand)FB_14 : 3-DropBug, 5-DropBug
+(X-White,Yellow,Gourmand)FB_15 : 2-Cyan, 3-Small Centipede-2, 4-Cyan
+(X-White,Yellow,Gourmand)FB_19 : 3-Dropbug
+(X-White,Yellow,Gourmand)FB_20 : 11-Cyan
+(X-White,Yellow,Gourmand)FB_25 : 4-Centipede-{0.25}-2, 5-Centipede-{0.6}
+(X-White,Yellow,Gourmand)FB_27 : 5-SpitterSpider
+(X-White,Yellow,Gourmand)FB_29 : 4-Cyan, 5-White
+(X-White,Yellow,Gourmand)FB_30 : 4-Cyan
+(X-White,Yellow,Gourmand)FB_36 : 4-Yellow
+(X-White,Yellow,Gourmand)FB_37 : 6-Cyan
+(X-White,Yellow,Gourmand)FB_39 : 4-Centipede-{0.35}-2
+(X-White,Yellow,Gourmand)FB_40 : 2-Dropbug
+(X-White,Yellow,Gourmand)FB_45 : 2-Centipede-{0.5}
+(X-White,Yellow,Gourmand)FB_47 : 2-Black-2
+(X-White,Yellow,Gourmand)FB_48 : 5-Centipede-{0.6}
+(X-White,Yellow,Gourmand)FB_51 : 3-Centipede-{0.4}-2
+(X-White,Yellow,Gourmand)LINEAGE : FB_13 : 4 : Centipede-{0.7}-0.2, Red Centipede-0
+(X-White,Yellow,Gourmand)LINEAGE : FB_20 : 9 : Centipede-{0.5}-0.1, Red Centipede-0
+
+//white and red
+(X-Yellow)FB_03 : 3-Black
+(X-Yellow)FB_16 : 2-SpitterSpider
+(X-Yellow)FB_19 : 2-Dropbug
+(X-Yellow)FB_20 : 7-SpitterSpider
+(X-Yellow)FB_26 : 2-Red Centipede
+(X-Yellow)FB_34 : 2-SpitterSpider
+(X-Yellow)LINEAGE : FB_19 : 5 : Yellow-0.8, Yellow-0.3, Cyan-0
+END CREATURES
+
+BAT MIGRATION BLOCKAGES
+FB_42
+FB_28
+FB_32
+FB_33
+END BAT MIGRATION BLOCKAGES

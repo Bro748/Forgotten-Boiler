@@ -1,0 +1,65 @@
+Palette: 10
+batsPerActiveSwarmRoom: 6
+batDepleteCyclesMin: 3
+batDepleteCyclesMax: 6
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.2
+overseersMin: 0
+overseersMax: 2
+Subregion: Forgotten Boiler
+Subregion: South Warehouse
+Subregion: Centipede's Lair
+playerGuideOverseerSpawnChance: 1.0
+Room_Attr: FB_02: BlackLizard-1,Centipede-1,RedCentipede-1,SpitterSpider-1,
+Room_Attr: FB_03: BlackLizard-4,Centipede-1,RedCentipede-1,BigSpider-2,SpitterSpider-1,
+Room_Attr: FB_04: BlackLizard-1,RedCentipede-2,BigSpider-3,SpitterSpider-2,
+Room_Attr: FB_05: BlackLizard-1,RedCentipede-2,BigSpider-3,SpitterSpider-2,
+Room_Attr: FB_06: BlackLizard-4,Centipede-3,RedCentipede-2,BigSpider-3,SpitterSpider-1,
+Room_Attr: FB_07: BlackLizard-2,Centipede-3,RedCentipede-2,SpitterSpider-1,
+Room_Attr: FB_08: YellowLizard-1,BlackLizard-1,CyanLizard-1,Centipede-1,RedCentipede-1,BigSpider-2,SpitterSpider-2,
+Room_Attr: FB_09: YellowLizard-1,BlackLizard-2,CyanLizard-1,Centipede-2,RedCentipede-1,BigSpider-3,
+Room_Attr: FB_10: YellowLizard-1,BlackLizard-1,CyanLizard-1,Centipede-1,RedCentipede-1,SmallCentipede-2,BigSpider-3,SpitterSpider-1,DropBug-1,
+Room_Attr: FB_11: YellowLizard-1,BlackLizard-1,Centipede-2,RedCentipede-2,SmallCentipede-2,BigSpider-3,SpitterSpider-3,DropBug-3,
+Room_Attr: FB_12: YellowLizard-1,BlackLizard-3,CyanLizard-2,SpitterSpider-1,DropBug-1,
+Room_Attr: FB_13: YellowLizard-1,BlackLizard-1,CyanLizard-2,Centipede-3,BigSpider-3,SpitterSpider-2,DropBug-2,
+Room_Attr: FB_14: YellowLizard-1,CyanLizard-2,Centipede-1,RedCentipede-1,SmallCentipede-2,BigSpider-3,SpitterSpider-1,
+Room_Attr: FB_15: YellowLizard-4,CyanLizard-1,Centipede-1,RedCentipede-1,SmallCentipede-3,BigSpider-2,SpitterSpider-2,DropBug-2,
+Room_Attr: FB_16: YellowLizard-2,CyanLizard-1,Centipede-1,RedCentipede-1,SmallCentipede-2,BigSpider-1,SpitterSpider-4,DropBug-1,
+Room_Attr: FB_17: CyanLizard-2,Centipede-2,RedCentipede-1,BigSpider-3,SpitterSpider-2,DropBug-1,
+Room_Attr: FB_18: Centipede-2,RedCentipede-1,BigSpider-2,SpitterSpider-1,
+Room_Attr: FB_19: YellowLizard-4,CyanLizard-1,Centipede-2,RedCentipede-1,SpitterSpider-1,DropBug-3,
+Room_Attr: FB_20: YellowLizard-4,BlackLizard-1,CyanLizard-3,RedCentipede-1,BigSpider-3,SpitterSpider-4,
+Room_Attr: FB_21: PinkLizard-1,BlueLizard-1,YellowLizard-1,WhiteLizard-1,CyanLizard-1,Centipede-1,RedCentipede-1,SmallCentipede-1,BigSpider-2,SpitterSpider-1,DropBug-1,
+Room_Attr: FB_22: YellowLizard-2,BlackLizard-1,CyanLizard-2,Centipede-1,RedCentipede-1,SmallCentipede-2,BigSpider-2,SpitterSpider-1,
+Room_Attr: FB_23: YellowLizard-1,BlackLizard-2,CyanLizard-1,Centipede-2,RedCentipede-1,SmallCentipede-2,SpitterSpider-1,
+Room_Attr: FB_24: BlackLizard-2,CyanLizard-2,Centipede-1,RedCentipede-1,SmallCentipede-1,SpitterSpider-1,
+Room_Attr: FB_25: YellowLizard-1,BlackLizard-2,CyanLizard-1,Centipede-4,RedCentipede-1,SmallCentipede-3,BigSpider-2,SpitterSpider-1,
+Room_Attr: FB_26: YellowLizard-1,CyanLizard-1,RedCentipede-4,BigSpider-2,SpitterSpider-1,
+Room_Attr: FB_27: PinkLizard-1,BlueLizard-1,YellowLizard-1,WhiteLizard-1,BlackLizard-1,CyanLizard-1,Centipede-1,RedCentipede-1,SmallCentipede-1,BigSpider-3,SpitterSpider-2,
+Room_Attr: FB_28: PinkLizard-1,BlueLizard-2,YellowLizard-1,WhiteLizard-1,CyanLizard-2,Centipede-1,RedCentipede-1,SpitterSpider-1,
+Room_Attr: FB_29: PinkLizard-3,BlueLizard-2,YellowLizard-1,WhiteLizard-3,BlackLizard-1,CyanLizard-3,Centipede-1,RedCentipede-1,SmallCentipede-2,SpitterSpider-3,DropBug-2,
+Room_Attr: FB_30: PinkLizard-2,BlueLizard-3,YellowLizard-1,WhiteLizard-3,BlackLizard-1,Centipede-1,RedCentipede-1,SmallCentipede-2,SpitterSpider-1,DropBug-2,
+Room_Attr: FB_31: BlueLizard-1,YellowLizard-1,BlackLizard-1,CyanLizard-2,Centipede-2,RedCentipede-1,SmallCentipede-1,SpitterSpider-2,
+Room_Attr: FB_32: PinkLizard-1,BlueLizard-1,YellowLizard-1,WhiteLizard-1,CyanLizard-1,Centipede-2,RedCentipede-1,SpitterSpider-2,DropBug-1,
+Room_Attr: FB_33: PinkLizard-1,BlueLizard-1,YellowLizard-1,WhiteLizard-1,CyanLizard-3,Centipede-2,RedCentipede-1,SpitterSpider-1,
+Room_Attr: FB_34: PinkLizard-1,BlueLizard-1,YellowLizard-4,WhiteLizard-1,CyanLizard-2,Centipede-2,RedCentipede-1,SpitterSpider-4,
+Room_Attr: FB_35: PinkLizard-2,BlueLizard-2,YellowLizard-1,WhiteLizard-2,CyanLizard-1,Centipede-1,RedCentipede-1,SpitterSpider-2,
+Room_Attr: FB_36: PinkLizard-1,BlueLizard-2,YellowLizard-4,WhiteLizard-1,RedCentipede-1,BigSpider-1,SpitterSpider-1,
+Room_Attr: FB_37: PinkLizard-3,BlueLizard-2,YellowLizard-1,WhiteLizard-3,CyanLizard-3,RedCentipede-1,BigSpider-1,SpitterSpider-1,DropBug-2,
+Room_Attr: FB_38: PinkLizard-2,YellowLizard-1,WhiteLizard-3,BlackLizard-1,CyanLizard-3,RedCentipede-1,BigSpider-2,DropBug-1,
+Room_Attr: FB_39: PinkLizard-1,BlueLizard-3,YellowLizard-1,WhiteLizard-2,CyanLizard-3,RedCentipede-1,BigSpider-1,DropBug-1,
+Room_Attr: FB_40: PinkLizard-1,BlueLizard-3,YellowLizard-1,WhiteLizard-2,CyanLizard-3,RedCentipede-1,BigSpider-1,DropBug-3,
+Room_Attr: FB_41: PinkLizard-1,BlueLizard-1,YellowLizard-1,WhiteLizard-2,CyanLizard-2,RedCentipede-1,BigSpider-1,DropBug-1,
+Room_Attr: FB_42: PinkLizard-1,BlueLizard-1,WhiteLizard-1,CyanLizard-1,RedCentipede-1,BigSpider-1,DropBug-1,
+Room_Attr: FB_43: PinkLizard-1,BlueLizard-1,WhiteLizard-1,CyanLizard-1,RedCentipede-1,SmallCentipede-2,BigSpider-1,DropBug-1,
+Room_Attr: FB_44: CyanLizard-1,Centipede-2,RedCentipede-1,SmallCentipede-2,BigSpider-3,
+Room_Attr: FB_45: CyanLizard-1,Centipede-3,RedCentipede-1,BigSpider-2,
+Room_Attr: FB_46: YellowLizard-1,CyanLizard-2,SpitterSpider-1,DropBug-2,
+Room_Attr: FB_47: PinkLizard-1,BlueLizard-1,YellowLizard-1,WhiteLizard-1,BlackLizard-3,CyanLizard-1,Centipede-1,RedCentipede-1,SmallCentipede-1,SpitterSpider-2,
+Room_Attr: FB_48: YellowLizard-1,BlackLizard-1,CyanLizard-1,Centipede-4,RedCentipede-2,BigSpider-2,SpitterSpider-1,
+Room_Attr: FB_49: YellowLizard-1,BlackLizard-4,CyanLizard-2,Centipede-2,RedCentipede-1,SmallCentipede-2,BigSpider-2,SpitterSpider-2,
+Room_Attr: FB_50: YellowLizard-1,Centipede-1,RedCentipede-1,SmallCentipede-1,BigSpider-1,
+Room_Attr: FB_51: YellowLizard-1,Centipede-4,RedCentipede-1,SmallCentipede-2,BigSpider-2,
+Room_Attr: FB_52: YellowLizard-1,Centipede-1,RedCentipede-1,SmallCentipede-1,BigSpider-1,
+Room_Attr: FB_53: YellowLizard-1,CyanLizard-3,RedCentipede-1,BigSpider-1,DropBug-2,

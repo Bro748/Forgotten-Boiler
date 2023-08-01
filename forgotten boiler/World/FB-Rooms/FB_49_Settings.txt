@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.3043478
+Grime: 0.01319056
+RandomItemDensity: 0.1521739
+RandomItemSpearChance: 0.1021738
+Palette: 153
+EffectColorA: 13
+EffectColorB: 18
+Effects: Fog-0.2065217-20-20, 
+PlacedObjects: LightSource><1006.683><405.1702><0.1847826~EffectColor2~-249~-21~-287~1.602509~1~0, LightSource><308.8><378.2545><0.4347826~EffectColor1~1~-247~-70~-243.3974~1~0, SlimeMold><566.6542><551.3726><-81~108~2~4, SlimeMold><621.6802><528.4132><-1~37~2~3, LightSource><1077.181><410.6876><0.2717391~EffectColor2~-186~-40~50~86.60254~1~0, LightSource><308.6096><220.6695><0.173913~EffectColor1~29~103~81~-25.39752~1~0, InsectGroup><310.1535><387.7279><-7~-76~19~33~Moth~0.3478261, LightSource><807.6666><258.0722><0.07608695~EffectColor2~-124~540~50~86.60254~1~0, LightSource><638.664><530.3644><0.1521739~EffectColor1~-125~6~50~86.60254~1~0, LightSource><307.9443><371.5438><0.04107799~EffectColor1~6.403137~-239.3656~50~86.60254~1~1, 
+AmbientSounds: OMNI><SO_IND-HeatDuct.ogg><456.8827><415.1003><0.3152174><1, OMNI><AM_IND-Factory02.ogg><451.433><315.4384><0.173913><1, SPOT><AM_IND-ElectricHum02.ogg><757.4069><278.624><0.2297211><1><287.4069><373.624><-15.79807><-167.723><0><0.1, SPOT><SO_IND-Boiler.ogg><1091.307><495.6985><0.1630435><1><1111.307><408.6985><-96.35535><-2.355347><0><0.1, 
+FadePalette: 21, 0.1565558

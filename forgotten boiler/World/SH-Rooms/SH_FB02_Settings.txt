@@ -1,0 +1,8 @@
+DangerType: Flood
+RandomItemDensity: 0.4021739
+RandomItemSpearChance: 0.1456521
+Palette: 10
+EffectColorA: 18
+AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><592.6707><469.6457><0.173913><1, SPOT><SO_WAT-RunningWater.ogg><726.5666><193.5614><0.1847826><1><1111.567><69.56143><-24.35535><164.6447><0><0.1, SPOT><AM_IND-DeepHum.ogg><683.9711><327.0707><0.3685343><1><192.6732><521.2353><4.486328><-63.10226><0><0.1, 
+Triggers: Spot<tA>event<tB>RoomSpecificTextMessage<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>703.0128<tB>342.6996<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111<tA>pos<tB>772.0128<tB>190.6996<tA>handlePos<tB>-25.35535<tB>-5.355347, 
+FadePalette: 9, 0.04347826

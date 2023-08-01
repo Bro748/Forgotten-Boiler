@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.2065217
+Grime: 0.07467154
+Palette: 3
+Effects: Fog-0.4891304-33-96, 
+PlacedObjects: LightSource><499.3656><326.4739><0.2653417~Environment~113.8334~145.5334~50~86.60254~1~1, 
+AmbientSounds: OMNI><AM_IND-Warehouse01.ogg><708.3395><523.5712><0.2282609><1, OMNI><AM_ENV-CricketsWnd.ogg><710.0853><599.8634><0.3478261><1, 
+FadePalette: 153, 0.1768343

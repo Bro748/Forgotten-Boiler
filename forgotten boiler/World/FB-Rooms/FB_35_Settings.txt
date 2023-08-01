@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.1288044
+RandomItemDensity: 0.1086956
+RandomItemSpearChance: 0.06956515
+Palette: 3
+Effects: Fog-0.2282609-20-20, 
+PlacedObjects: UniqueDataPearl><584.1753><348.9355><-426.3188~85.55316~0~0~1485419118~0, LightSource><595.6914><368.2104><0.2730739~Environment~148.6949~-118.4177~50~86.60254~1~0, 
+AmbientSounds: OMNI><AM_IND-Warehouse01.ogg><782.1951><416.4562><0.2934783><1, OMNI><AM_IND-Utility01.ogg><779.4778><487.146><0.2757356><1, 
+FadePalette: 153, 0.4412255

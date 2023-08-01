@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.3478261
+Clouds: 0
+Grime: 0.113338
+BkgDroneVolume: 0
+RandomItemDensity: 0.3586957
+Palette: 3
+Effects: Fog-0.00241122-20-20, RockFlea-0.1521739-23-76, Flies-0.1521739-23-130, 
+AmbientSounds: OMNI><AM_ENV-CricketsWnd.ogg><748.3016><488.9746><0.2813628><1, OMNI><AM_IND-Utility01.ogg><742.6501><412.4419><0.3840007><1, 
+FadePalette: 153, 0.3994225

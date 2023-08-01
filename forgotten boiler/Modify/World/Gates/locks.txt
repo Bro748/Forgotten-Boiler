@@ -1,0 +1,4 @@
+[MERGE]
+GATE_SH_FB : 3 : 2
+GATE_CC_FB : 3 : 1
+[ENDMERGE]

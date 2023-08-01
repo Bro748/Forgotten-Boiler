@@ -1,0 +1,5 @@
+Template: NONE
+DangerType: Flood
+Palette: 153
+PlacedObjects: NoSpearStickZone><488.7037><269.3054><1~-259, ExitSymbolShelter><880.3472><206.5752><, 
+FadePalette: 12, 0.04347826

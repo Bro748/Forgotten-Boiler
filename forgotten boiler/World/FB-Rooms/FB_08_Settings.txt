@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.07110529
+RandomItemDensity: 0.1195652
+RandomItemSpearChance: 0.05869558
+Palette: 153
+EffectColorA: 14
+EffectColorB: 18
+Effects: Fog-0.5108696-20-20, RockFlea-0.06521739-22-73, 
+PlacedObjects: LightFixture><1842.832><256.1824><SlimeMoldLight~17.32051~-10~26, LightFixture><1664.56><235.061><SlimeMoldLight~52.3205~-147~7, LightFixture><663.1099><176.1671><SlimeMoldLight~29.3205~-92~19, LightFixture><285.3112><156.434><SlimeMoldLight~73.3205~-138~43, LightSource><481.9675><314.6119><0.2671409~EffectColor1~105~271~-34.07925~-79.22351~1~0, LightSource><1487.899><171.8661><0.2717391~EffectColor2~108~101~50~86.60254~1~0, KarmaFlower><444.9962><493.8><-78.99997~130~15~20, VoidSpawnEgg><890.6739><359.5988><0~0~1~2~0, VoidSpawnEgg><1420.804><302.46><-30~59~1~2~0, VoidSpawnEgg><516.9918><492.9498><86~45.00003~1~2~0, VoidSpawnEgg><390.1213><489.1531><-246~30~1~2~0, UniqueDataPearl><468.673><466.0654><281.501~-25.38745~0~0~-2006735594~0, LightSource><2070.551><330.7312><0.2934783~EffectColor2~-278~-114~50~86.60254~1~0, LightSource><713.1273><220.092><0.4565217~EffectColor2~-297~229~50~86.60254~1~0, LightSource><1500.207><353.4453><0.326087~EffectColor2~-171~-243~50~86.60254~1~0, LightSource><280.1738><401.8151><0.2826074~EffectColor2~193~-167~-266.4406~-115.1797~1~0, LightSource><1161.055><383.2963><0.3586957~EffectColor2~-181~-215~50~86.60254~1~0, LightSource><449.4036><165.3718><0.1304348~EffectColor1~155~179~-8.3396~-36.47974~1~0, LightSource><471.6985><340.1554><0.03334477~EffectColor1~16.36356~275.7302~32.21353~38.93484~1~1, 
+AmbientSounds: OMNI><AM_IND-Factory02.ogg><751.8255><523.6583><0.3152174><0.823913, SPOT><SO_SFX-Kepler.ogg><740.4313><386.9117><0.2680034><1><469.2114><354.2795><5.90921><160.2957><0><0.1, 
+FadePalette: 21, 0.1333562, 0.1130774

@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.1521739
+Grime: 0.136538
+RandomItemDensity: 0.25
+RandomItemSpearChance: 0.1021738
+Palette: 3
+Effects: Fog-0.1847826-20-20, RockFlea-0.06521739-21-86, Flies-0.1847826-24-134, 
+PlacedObjects: CustomDecal><581.2262><299.0514><-18~368~528~325~517~-140~-314~-61~0.3478261~1~0~Scav Wedges~0.2157152~0.4456522~0.2157152~0.4456522~0.2157152~0.4456522~0.2157152~0.4456522, FlyLure><630.7979><291.3316><0.7115479~-176.4417~5~7, LightSource><630.199><412.7915><0.3426733~Environment~-231.9355~-131.2239~50~86.60254~1~1, 
+AmbientSounds: OMNI><AM_ENV-CricketsWnd.ogg><620.4717><291.302><0.4082316><1, OMNI><AM_ENV-Outside.ogg><616.752><188.851><0.2138698><1, 
+FadePalette: 153, 0.2031701

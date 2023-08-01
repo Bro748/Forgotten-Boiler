@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.1521739
+Grime: 0.1442709
+RandomItemDensity: 0.326087
+RandomItemSpearChance: 0.1782608
+Palette: 2
+Effects: Fog-0.3695652-20-20, RockFlea-0.08695652-19-82, 
+PlacedObjects: InsectGroup><389.9416><482.0573><247~89~0~0~Moth~0.1630435, LightSource><4627.284><366.2824><0.1338766~Environment~-227.6667~-188.1407~50~86.60254~1~1, LightSource><2379.409><378.8186><0.1493431~Environment~201.3427~204.5844~50~86.60254~1~1, LightSource><877.6024><397.9982><0.1802779~Environment~-253.2792~156.2051~50~86.60254~1~1, 
+AmbientSounds: OMNI><AM_IND-Warehouse02.ogg><755.9272><398.5926><0.2364243><1, OMNI><AM_ENV-Outside.ogg><758.5007><470.7863><0.4613336><1, OMNI><AM_ENV-LightWind.ogg><761.2532><540.389><0.2061376><1, 
+FadePalette: 8, 0.6052992, 0.6052992, 0.6130326, 0.6284981, 0.6442712

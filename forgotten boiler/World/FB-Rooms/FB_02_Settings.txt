@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+RandomItemDensity: 0.3043478
+RandomItemSpearChance: 0.1673912
+Palette: 153
+EffectColorA: 18
+Effects: Fog-0.2826087-20-20, 
+PlacedObjects: LightSource><609.8899><293.3929><0.1630435~EffectColor1~-454~95~50~86.60254~1~0, LightSource><188.6976><90.28107><0.1630435~EffectColor1~241~278~50~86.60254~1~0, LightSource><-58.05249><119.7813><0.1195652~EffectColor1~139~216~-16~109.6025~1~0, LightSource><874.9495><301.2345><0.07608695~EffectColor1~-104~91~50~86.60254~1~0, 
+AmbientSounds: OMNI><Mech Basic.wav><722.0793><387.8164><0.2374553><0.8826087, SPOT><AM_IND-Factory02.ogg><601.0424><206.9454><0.2002497><1><619.0424><266.9455><3.644653><270.6447><0><0.1, SPOT><SO_WAT-RunningWater.ogg><1022.052><422.7218><0.173913><1><622.052><1442.722><-19.35535><-111.3553><0><0.1, 
+Triggers: Spot<tA>event<tB>StopMusicEvent<eA>songName<eB>NO SONG<eA>prio<eB>1<eA>type<eB>0<eA>fadeOut<eB>200<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1037.142<tB>420.5816<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111<tA>pos<tB>615.1421<tB>273.5816<tA>handlePos<tB>2.644653<tB>113.6447, 
+FadePalette: 2, 0.04347826, 0.06521739

@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.09241419
+RandomItemDensity: 0.25
+RandomItemSpearChance: 0.1565217
+Palette: 153
+EffectColorA: 18
+EffectColorB: 13
+Effects: Fog-0.5869565-20-20, 
+PlacedObjects: LightSource><748.8337><254.7298><0.2608696~EffectColor1~-283~49~-34~-190.3975~1~0, LightFixture><785.7294><518.5511><SlimeMoldLight~-91.6795~-164~21, LightFixture><501.0786><1136.84><SlimeMoldLight~-240.2045~-181.1302~39, LightFixture><580.6317><1096.339><SlimeMoldLight~-144.6795~-227~1, LightSource><664.3934><953.109><0.4021739~EffectColor1~-69~184~0.0947876~-17.58235~1~0, LightSource><896.8491><467.3688><0.2717391~EffectColor1~-367~35~67~-86.39746~1~0, LightSource><928.6219><769.1536><0.3478261~EffectColor1~-2~240~50~86.60254~1~0, LightSource><830.2136><1166.375><0.3043478~EffectColor1~-132.8937~-120.5062~-144~67.60248~1~0, LightSource><350.1116><1179.919><0.4565216~EffectColor1~166~-1~-11~135.6025~1~0, LightSource><590.955><615.1437><0.6847826~EffectColor1~277~-150~50~86.60254~1~0, LightSource><1131.302><1300.279><0.1956522~EffectColor2~-124~-6~-51~64.60248~1~0, LightSource><946.9257><1027.346><0.3369565~EffectColor1~-55~245~-8~-83.39752~1~0, LightSource><973.7487><1273.2><0.4565217~EffectColor1~-142~-89~-92.99994~176.6025~1~0, LightSource><387.1885><304.0667><0.3478261~EffectColor1~346~223~50~86.60254~1~0, LightFixture><860.8043><1275.459><SlimeMoldLight~-69.6795~88~30, 
+AmbientSounds: OMNI><SO_IND-Boiler.ogg><500.5549><73.70627><0.2251249><0.9025608, OMNI><SO_IND-Turbine.ogg><503.1979><150.4713><0.3043478><1, 
+FadePalette: 21, 0.1254077, 0.1176746

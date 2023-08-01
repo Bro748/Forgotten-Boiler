@@ -1,0 +1,11 @@
+Template: NONE
+Grime: 0.02827254
+RandomItemDensity: 0.3043478
+RandomItemSpearChance: 0.08043472
+Palette: 153
+EffectColorA: 18
+EffectColorB: 13
+Effects: Fog-0.5-20-20, 
+PlacedObjects: ReliableSpear><579.8134><287.572><, SlimeMold><522.317><267.8307><-56~-109~2~3, MultiplayerItem><483.2><267.4999><ExplosiveSpear~-254.6795~12~0.8586956, SlimeMold><611.1348><286.1023><-437.4521~182.8094~3~4, LightSource><539.5692><364.4768><0.6413039~EffectColor1~116.5417~-202.6167~50~86.60254~1~0, LightSource><606.4504><331.0562><0.2065217~EffectColor2~-97~-117~50~86.60254~1~0, 
+AmbientSounds: OMNI><AM_IND-Factory01.ogg><753.5365><222.8034><0.1413043><1, OMNI><SO_IND-HeatDuct.ogg><739.5889><130.4292><0.2717391><1, 
+FadePalette: 22, 0.1239471

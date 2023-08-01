@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.5652174
+Grime: 0.1195652
+RandomItemDensity: 0.3369565
+RandomItemSpearChance: 0.1673912
+Palette: 153
+EffectColorA: 18
+EffectColorB: 13
+Effects: Fog-0.4782609-20-20, Flies-0.05434782-19-69, 
+PlacedObjects: CosmeticSlimeMold><213.8416><466.1222><26~18, LightSource><200.1975><370.0316><0.5108696~EffectColor1~0~100~22.00002~-40.39746~1~0, LightSource><1425.503><240.05><0.1304348~EffectColor1~-226~153~25.60413~242.0921~1~0, LightFixture><1324.495><289.95><SlimeMoldLight~-179.6795~-145~4, LightSource><1655.95><230.2547><0.1847826~EffectColor1~-250~108~-3~129.6025~1~0, LightSource><1350.655><249.8762><0.1413043~EffectColor1~-39~110~71~-94.39745~1~0, LightSource><542.1809><226.9148><0.3695652~EffectColor1~301~115~-168~39.60254~1~0, LightSource><1793.729><320.8011><0.2826087~EffectColor1~176~-37~50~86.60254~1~0, LightSource><1083.643><367.1401><0.2934783~EffectColor1~294~-62~50~86.60254~1~0, LightSource><2019.616><287.3368><0.5869565~EffectColor1~-145~-5~50~86.60254~1~0, LightSource><750.2675><373.4492><0.3586961~EffectColor1~-227~-268~50~86.60254~1~0, LightSource><380.7993><396.9438><0.5434783~EffectColor1~-165~-141~50~86.60254~1~0, 
+AmbientSounds: OMNI><SO_IND-Boiler.ogg><746.6207><311.6526><0.2934783><1, 
+FadePalette: 21, 0.08674124, 0.09761081

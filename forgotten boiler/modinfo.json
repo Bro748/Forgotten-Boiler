@@ -1,0 +1,11 @@
+{
+	"id": "limecultivist.forgottenboiler",
+	"name": "Forgotten Boiler",
+	"version": "1.9.01a",
+	"hide_version": true,
+	"authors": "Limecultivist, port by Sequoia",
+        "description": "A dark and treacherous passage that connects Shaded Citadel to Chimney Canopy."
+	"requirements": ["regionkit"],
+	"requirements_names": ["RegionKit"],
+	"checksum_override_version": false
+}

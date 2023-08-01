@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.4130435
+Grime: 0.0978712
+RandomItemDensity: 0.1956522
+RandomItemSpearChance: 0.123913
+Palette: 153
+EffectColorA: 13
+EffectColorB: 18
+PlacedObjects: LightSource><635.2202><193.525><0.2148982~EffectColor1~-166.6167~184.4708~-202.5677~-223.5932~1~0, LightSource><325.2304><453.1078><0.2717391~EffectColor2~237.5864~-105.0875~151.7386~154.9026~1~0, LightSource><839.6943><214.3582><0.07213559~EffectColor1~154.024~-104.1188~50~86.60254~1~0, LightSource><1064.403><265.2647><0.3736068~EffectColor2~-471.6969~-189.5636~50~86.60254~1~0, LightSource><493.5073><368.274><0.2112102~EffectColor1~133.0427~-200.9469~50~86.60254~1~0, LightSource><1080.456><246.1052><0.1416105~EffectColor1~-169.327~13.91351~50~86.60254~1~0, 
+AmbientSounds: OMNI><AM_IND-ElectricHum01.ogg><759.7><298.7509><0.2391304><1, OMNI><AM_IND-Midsex02.ogg><762.6993><376.0161><0.1413043><1, 
+FadePalette: 22, 0.159692

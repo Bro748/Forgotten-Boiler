@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.09868655
+RandomItemDensity: 0.2282609
+RandomItemSpearChance: 0.1456521
+Palette: 153
+EffectColorA: 18
+EffectColorB: 13
+Effects: Fog-0.2065217-20-20, RockFlea-0.1304348-20-76, 
+PlacedObjects: LightSource><702.692><122.5561><0.1630436~EffectColor1~217~55~50~86.60254~1~0, ExitSymbolHidden><235.6628><343.3201><, LightSource><603.3962><278.8636><0.25~EffectColor1~192~89~-68~-90.39746~1~0, LightSource><921.8044><285.7083><0.4891304~EffectColor1~-174~15~101.0001~108.6025~1~0, SlimeMold><396.965><213.3189><-174~-109~3~4, SlimeMold><459.5873><191.3837><19~-128~3~4, LightSource><591.873><458.2305><0.2934783~EffectColor1~3~-134~50~86.60254~1~0, LightSource><722.95><357.7465><0.3260872~EffectColor1~-162~-182~50~86.60254~1~0, LightSource><622.9494><411.7656><0.2065217~EffectColor2~-183~-224~50~86.60254~1~0, LightSource><449.1194><256.7563><0.2594094~EffectColor2~112~238~50~86.60254~1~0, LightSource><435.8297><201.4506><0.0952102~EffectColor2~3.557297~80.07919~50~86.60254~1~1, 
+AmbientSounds: OMNI><SO_IND-Boiler.ogg><738.3344><310.1121><0.2717391><0.9608696, 
+FadePalette: 21, 0.1038837

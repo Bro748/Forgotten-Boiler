@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.02216969
+RandomItemDensity: 0.1521739
+RandomItemSpearChance: 0.1021738
+Palette: 153
+EffectColorA: 15
+EffectColorB: 18
+Effects: Fog-0.25-20-20, Beetle-0.1630435-25-74, 
+PlacedObjects: LightSource><552.2936><443.0568><0.1760201~EffectColor1~-133.3083~-22~50~86.60254~1~0, LightSource><732.6606><364.6193><0.217392~EffectColor1~-116~55~-235~-104.3975~1~0, LightSource><1272.329><347.8929><0.3369565~EffectColor1~-239~65~50~86.60254~1~0, LightSource><1847.998><418.5576><0.1521739~EffectColor1~-111~-130~-61~98.60254~1~0, LightSource><852.1113><400.8462><0.2552411~EffectColor1~-147.9844~-133.3479~-38.19373~76.60666~1~0, LightSource><1980.859><388.675><0.292231~EffectColor1~-129.5219~57.3479~-14~-115.3975~1~0, LightSource><1594.056><407.0479><0.2934783~EffectColor1~-175~-122~50~86.60254~1~0, LightSource><2078.574><460.5132><0.3620473~EffectColor1~-130.8103~-39.88544~-165~168.6025~1~0, LightSource><237.4915><476.6612><0.2186366~EffectColor2~189.9978~-128.2448~58.53748~120.7526~1~0, 
+AmbientSounds: OMNI><SO_WAT-DripTap.ogg><699.7164><308.7899><0.4458671><1, OMNI><AM_ENV-SubTerr.ogg><731.6796><443.8837><0.3762678><1, 
+FadePalette: 22, 0.1099409, 0.1099411

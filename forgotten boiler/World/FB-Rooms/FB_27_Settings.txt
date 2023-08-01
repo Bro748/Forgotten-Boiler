@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.3043478
+Grime: 0
+RandomItemDensity: 0.326087
+RandomItemSpearChance: 0.1565217
+Palette: 153
+EffectColorA: 18
+EffectColorB: 13
+Effects: Fog-0.2608696-20-20, 
+PlacedObjects: SlimeMold><849.4575><2671.805><18~211~2~3, SlimeMold><827.8619><2671.645><17~139~2~3, LightSource><526.1262><1942.095><0.1304348~EffectColor1~301~-29~2~48.60248~1~0, LightSource><618.8428><2470.677><0.2173913~EffectColor1~129~91~-292~-105.3975~1~0, LightSource><458.1244><1408.656><0.1413043~EffectColor1~-95~-337~50~86.60254~1~0, LightSource><860.4407><2647.941><0.2717391~EffectColor1~-214~-198~-73~-59.39746~1~0, VoidSpawnEgg><631.1927><522.6967><-304~12~3~5~1, VoidSpawnEgg><835.5571><522.4471><0~0~3~5~1, VoidSpawnEgg><769.5098><2694.205><0~0~3~5~1, LightSource><573.4319><2782.584><0.3261122~EffectColor1~8~-168~50~86.60254~1~0, LightSource><685.1627><1455.93><0.3913043~EffectColor1~-90~-396~-14~-104.3975~1~0, LightSource><575.3507><2167.117><0.2826087~EffectColor1~357~64~68~52.60254~1~0, LightSource><909.8902><1730.142><0.4347826~EffectColor1~-251~228~-1~-122.3975~1~0, LightSource><749.6083><2709.419><0.3695652~EffectColor1~-136~-118~50~86.60254~1~0, LightSource><1082.581><2083.394><0.326087~EffectColor2~-120~-4~50~86.60254~1~0, LightSource><852.6234><2276.905><0.4891304~EffectColor1~-281~153~50~86.60254~1~0, LightSource><982.6929><2146.053><0.2717391~EffectColor1~-238~-228~50~86.60254~1~0, 
+AmbientSounds: OMNI><AM_IND-Factory01.ogg><756.4706><224.3022><0.2717391><1, OMNI><SO_IND-Boiler.ogg><716.5929><313.1237><0.1956522><1, SPOT><AM_IND-ElectricHum01.ogg><1014.566><282.6887><0.2391304><1><1223.566><2091.689><-128.3553><-6.355347><0><0.1, 
+Triggers: Spot<tA>event<tB>StopMusicEvent<eA>songName<eB>NO SONG<eA>prio<eB>1<eA>type<eB>0<eA>fadeOut<eB>200<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>641.6774<tB>305.5924<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111<tA>pos<tB>710.6774<tB>130.5924<tA>handlePos<tB>-0.3553467<tB>78.64466, 
+FadePalette: 21, 0.3174934, 0.3066234, 0.3003507, 0.2972153
+WetTerrain: OFF
