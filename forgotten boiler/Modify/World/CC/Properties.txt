@@ -1,5 +1,7 @@
+[MERGE]
 Room_Attr: CC_FB01: PinkLizard-1,BlueLizard-2,WhiteLizard-2,CyanLizard-2,
 Room_Attr: CC_FB02: PinkLizard-2,BlueLizard-3,Vulture-3,DropBug-1,KingVulture-3,
 Room_Attr: CC_FB03: PinkLizard-3,CyanLizard-2,DropBug-2,
 Room_Attr: CC_FB04: BlueLizard-3,
 Room_Attr: CC_FB05: PinkLizard-3,BlueLizard-2,CyanLizard-1,DropBug-1,
+[ENDMERGE]

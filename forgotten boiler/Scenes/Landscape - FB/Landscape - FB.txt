@@ -1,2 +1,1 @@
 FB_Landscape - 1 : 1
-FB_Landscape - Flat : 1
